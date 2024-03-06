@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdaziz</h1>
-<h3 align="center">I am a programmer from Uzbekistan</h3>
+<h1 align="center"><img src="https://camo.githubusercontent.com/42aa9a93aff426157ccace55c83ebff9a6ef666ad769063f20d27b30e2d85224/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133"/>Hi 👋, I'm Abdaziz</h1>
+
+<h3 align="center"> I am a programmer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduazizbobomalikovnode&label=Profile%20views&color=0e75b6&style=flat" alt="abduazizbobomalikovnode" /> </p>
 
