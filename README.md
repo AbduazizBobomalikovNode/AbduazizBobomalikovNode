@@ -40,6 +40,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abduazizbobomalikovnode&show_icons=true&locale=en" alt="abduazizbobomalikovnode" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abduazizbobomalikovnode&" alt="abduazizbobomalikovnode" /></p>
+
+![Summary card](https://robocontest-stats-card.vercel.app/cards/robocontest/derter?extension_type=card&theme=light)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/azizbek12234?theme=light&font=Cabin&ext=activity)
