@@ -1,0 +1,29 @@
+# fly.toml file for Node.js Currency Bot
+
+app = "node-currency-bot"
+
+primary_region = "ord"
+
+[build]
+  builder = "heroku/buildpacks:20"
+
+[env]
+  NODE_ENV = "production"
+
+[mounts]
+  source = "data"  
+  destination = "/data"
+
+[services]
+  [[services.http]]
+    internal = true
+    processes = "app"
+    [services.http.automatic_routes]
+      enabled = true
+      enableAutoTLS = true
+
+[processes]
+  [processes.app]
+    commands = ["npm start"]
+    instances = 1
+    size = "firm"]
