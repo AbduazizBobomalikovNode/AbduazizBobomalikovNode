@@ -1,41 +1,160 @@
-<h1 align="center"><img src="https://camo.githubusercontent.com/42aa9a93aff426157ccace55c83ebff9a6ef666ad769063f20d27b30e2d85224/68747470733a2f2f7170682e6366322e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133"/>Hi 👋, I'm Abdaziz</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduazizbobomalikovnode&label=Profile%20views&color=0e75b6&style=flat" alt="abduazizbobomalikovnode" /> </p>
+<h1 align="center">Abduaziz Bobomalikov</h1>
 
-<h3 align="center"> I am a programmer from Uzbekistan</h3>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abduazizbobomalikovnode" alt="abduazizbobomalikovnode" /></a> </p> -->
-
-- 🔭 I’m currently working on **MQTT server**
-
-- 🌱 I’m currently learning **ML,Data mining,Kompyuter vision,IOT platform**
-
-- 👯 I’m looking to collaborate on [Samart Call](https://github.com/qobulovasror)
-
-- 🤝 I’m looking for help with [neyron AI and IOT service server](azizbek12234@gmail.com)
-
-- 💬 Ask me about **IOT platform,Rest Full API,CRM,ERM,**
-
-- 📫 How to reach me **azizbek12234@gmail.com**
-
-- ⚡ Fun fact **Programming is my life.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/derter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="derter" height="30" width="40" /></a>
-<a href="https://twitter.com/abdusoft0415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdusoft0415" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abduaziz-bobomalikov-abdusoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abduaziz-bobomalikov-abdusoft" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/abduaziz-bobomalikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abduaziz-bobomalikov" height="30" width="40" /></a>
-<a href="https://fb.com/abduaziz.bobomalikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abduaziz.bobomalikov" height="30" width="40" /></a>
-<a href="https://instagram.com/i_am_that_abduaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_that_abduaziz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abduazizbobomalikov3970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abduazizbobomalikov3970" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/azizbek12234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="azizbek12234" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/azizbek12234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="azizbek12234" height="30" width="40" /></a>
+<p align="center">
+  <b>Brauzerda ishlaydigan narsalar quraman</b><br/>
+  <sub>Oltiariq, Fargʻona · Abdusoft asoschisi · 2021-yildan beri GitHub'da</sub>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://4d-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Muzeyga_kirish-F2B441?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://t.me/Bobomalikov_Abduaziz"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://linkedin.com/in/abduaziz-bobomalikov-abdusoft"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:azizbek12234@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
+---
 
-![Summary card](https://robocontest-stats-card.vercel.app/cards/robocontest/derter?extension_type=card&theme=light)
+Portfoliom oddiy sayt emas — **ichiga kirib yuriladigan 3D muzey**. Ikki qavat, sakkiz xona; har bir loyiham u yerda eksponat boʻlib turadi.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/azizbek12234?theme=light&font=Cabin&ext=activity)
+Ishlarim uchta yoʻnalishda: brauzerdagi 3D, Telegram ustida qurilgan AI agentlar va oʻqitish uchun simulyatorlar. Uchalasini bogʻlab turadigan narsa bitta — odam oʻqib emas, **bosib koʻrib** tushunishi kerak.
+
+---
+
+## Loyihalar
+
+<table>
+<tr><td width="60"><h3>🏛</h3></td><td>
+
+**[4D Portfolio](https://4d-portfolio.vercel.app)** — ichida yuriladigan 3D muzey-portfolio
+<sub>`TypeScript` · `React Three Fiber` · `Rapier` · `Vercel`</sub>
+
+</td></tr>
+<tr><td colspan="2">
+<details>
+<summary>&nbsp;&nbsp;Batafsil</summary>
+<br/>
+
+Klaviatura bilan erkin yurasiz yoki tayyor marshrut boʻylab siljiysiz. Fizika haqiqiy: devordan oʻtib boʻlmaydi, zinadan koʻtarilasiz.
+
+- Burchakdagi shisha panelda sakkizta xonaning **jonli 3D koʻrinishi** — har biri alohida kameradan sekin aylanib turadi, bosasiz va oʻsha yerda paydo boʻlasiz
+- Toʻrt til: oʻzbek (lotin/kirill), rus, ingliz — kirishdagi elektron trubunadan tanlanadi
+- Devordagi ekranlarda GitHub profilim jonli koʻrinadi
+- Fikr qoldirish formasi ham 3D — DOM emas, sahnaning ichida
+
+</details>
+</td></tr>
+
+<tr><td width="60"><h3>🩺</h3></td><td>
+
+**[TibSim](https://github.com/AbduazizBobomalikovNode/tibsim)** — tibbiyot texnikasi fani uchun virtual laboratoriya
+<sub>`TypeScript` · `3D` · `PWA`</sub>
+
+</td></tr>
+<tr><td colspan="2">
+<details>
+<summary>&nbsp;&nbsp;Batafsil</summary>
+<br/>
+
+Tibbiyot texnikasini kitobdan oʻrganib boʻlmaydi — qurilmani ishlatib koʻrish kerak. TibSim shuning uchun: **oʻn modul**, har biri alohida qurilma yoki jarayon.
+
+Internetsiz ham ochiladi (PWA), oʻzbek va rus tillarida. Talaba tugmani bosadi, natijani darhol koʻradi.
+
+</details>
+</td></tr>
+
+<tr><td width="60"><h3>🤖</h3></td><td>
+
+**[tg-ai-analyzer](https://github.com/AbduazizBobomalikovNode/tg-ai-analyzer)** — Telegram chatlari uchun AI agent
+<sub>`Python` · `MTProto` · `Gemini / DeepSeek`</sub>
+
+</td></tr>
+<tr><td colspan="2">
+<details>
+<summary>&nbsp;&nbsp;Batafsil</summary>
+<br/>
+
+Telegram arxivingizda minglab xabar bor va ularning ichidan kerakligini topib boʻlmaydi. Agent MTProto orqali arxivga kiradi, xabarlarni tahlil qiladi, qidiradi va xulosa chiqaradi.
+
+Bot API bilan boshqariladi, model sifatida Gemini yoki DeepSeek ishlaydi.
+
+</details>
+</td></tr>
+
+<tr><td width="60"><h3>⚡</h3></td><td>
+
+**[hacking-animation](https://github.com/AbduazizBobomalikovNode/hacking-animation)** — kiberpank uslubidagi desktop animatsiya
+<sub>`Electron` · `JavaScript`</sub>
+
+</td></tr>
+<tr><td width="60"><h3>📄</h3></td><td>
+
+**[ml_convertor_free](https://github.com/AbduazizBobomalikovNode/ml_convertor_free)** — hujjat konvertori
+<sub>`Python` — Word, Excel, PowerPoint → PDF, HTML va boshqalar</sub>
+
+</td></tr>
+<tr><td width="60"><h3>💱</h3></td><td>
+
+**[Valyuta kursi](https://github.com/AbduazizBobomalikovNode/Valyuta-kursi)** — banklar kursi, kredit va omonat kalkulyatorlari
+<sub>`JavaScript`</sub>
+
+</td></tr>
+</table>
+
+<details>
+<summary><b>Yana bir nechta ish</b></summary>
+<br/>
+<sub>Tavsifi <code>—</code> boʻlganlariga oʻzingiz bir qator yozib qoʻysangiz, README oʻzi toʻlib boradi.</sub>
+<br/>
+
+| Loyiha | Tavsif | Til |
+|---|---|---|
+| [changelog-chat](https://github.com/AbduazizBobomalikovNode/changelog-chat) | — | Swift |
+| [Pay-bot](https://github.com/AbduazizBobomalikovNode/Pay-bot) | Toʻlov boti | JavaScript |
+| [for-lELITS](https://for-l-elits.vercel.app) | — ([jonli sayt](https://for-l-elits.vercel.app)) | TypeScript |
+| [Sam-Tour-Services](https://github.com/AbduazizBobomalikovNode/Sam-Tour-Services) | — | JavaScript |
+| [LangTestBot](https://github.com/AbduazizBobomalikovNode/LangTestBot) | — | JavaScript |
+| [smart-call-servise](https://github.com/AbduazizBobomalikovNode/smart-call-servise) | — | CSS |
+
+</details>
+
+---
+
+## Nimalar bilan ishlayman
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+</p>
+
+---
+
+## Statistika
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbduazizBobomalikovNode&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbduazizBobomalikovNode&theme=github_dark" height="180"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Loyiha taklifingiz bormi?</b><br/>
+  <a href="https://t.me/Bobomalikov_Abduaziz">Telegram</a> orqali yozing yoki
+  <a href="https://4d-portfolio.vercel.app">muzeyga kiring</a> — u yerda ham forma bor.
+</p>
