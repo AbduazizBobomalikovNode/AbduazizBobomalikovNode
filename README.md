@@ -25,7 +25,7 @@ I work in three areas: 3D on the web, AI agents built on Telegram, and simulator
 <table>
 <tr><td width="60"><h3>🏛</h3></td><td>
 
-**[4D Portfolio](https://4d-portfolio.vercel.app)** — a 3D museum-portfolio you can walk around in
+**[4D Portfolio](https://4d-portfolio.vercel.app)** — a 3D museum-portfolio you can walk around in · [source](https://github.com/AbduazizBobomalikovNode/4d-museum-portfolio)
 <sub>`TypeScript` · `React Three Fiber` · `Rapier` · `Vercel`</sub>
 
 </td></tr>
@@ -76,6 +76,24 @@ Works offline (PWA), in Uzbek and Russian. Students press a button and see the r
 Your Telegram archive holds thousands of messages, and finding the one you need is nearly impossible. The agent connects to the archive via MTProto, then analyzes, searches and summarizes your messages.
 
 It's controlled through the Bot API and runs on Gemini or DeepSeek.
+
+</details>
+</td></tr>
+
+<tr><td width="60"><h3>🎬</h3></td><td>
+
+**[coursegen](https://github.com/AbduazizBobomalikovNode/coursegen)** — point it at a website, get narrated video lessons with subtitles
+<sub>`TypeScript` · `Playwright` · `Remotion` · `FFmpeg` · `MCP`</sub>
+
+</td></tr>
+<tr><td colspan="2">
+<details>
+<summary>&nbsp;&nbsp;Details</summary>
+<br/>
+
+Recording a product walkthrough by hand means a script, a voice-over and a lot of nudging so the cursor clicks at the moment the narrator names the button. coursegen automates that loop: it records the site with a scripted browser, synthesises the narration and lines each action up with the word that mentions it.
+
+A request firewall keeps the recording from changing data on the live site, and the final video passes automated QC before it is published with SRT/VTT subtitles.
 
 </details>
 </td></tr>
