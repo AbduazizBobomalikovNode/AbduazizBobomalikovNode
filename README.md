@@ -1,12 +1,12 @@
 <h1 align="center">Abduaziz Bobomalikov</h1>
 
 <p align="center">
-  <b>Brauzerda ishlaydigan narsalar quraman</b><br/>
-  <sub>Oltiariq, Fargʻona · Abdusoft asoschisi · 2021-yildan beri GitHub'da</sub>
+  <b>I build things you can explore right in the browser</b><br/>
+  <sub>Oltiariq, Fergana, Uzbekistan · Founder of Abdusoft · On GitHub since 2021</sub>
 </p>
 
 <p align="center">
-  <a href="https://4d-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Muzeyga_kirish-F2B441?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://4d-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Enter_the_museum-F2B441?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="https://t.me/Bobomalikov_Abduaziz"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://linkedin.com/in/abduaziz-bobomalikov-abdusoft"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:azizbek12234@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -14,110 +14,110 @@
 
 ---
 
-Portfoliom oddiy sayt emas — **ichiga kirib yuriladigan 3D muzey**. Ikki qavat, sakkiz xona; har bir loyiham u yerda eksponat boʻlib turadi.
+My portfolio isn't an ordinary website — it's a **3D museum you can walk through**. Two floors, eight rooms, and every project I've built is on display as an exhibit.
 
-Ishlarim uchta yoʻnalishda: brauzerdagi 3D, Telegram ustida qurilgan AI agentlar va oʻqitish uchun simulyatorlar. Uchalasini bogʻlab turadigan narsa bitta — odam oʻqib emas, **bosib koʻrib** tushunishi kerak.
+I work in three areas: 3D on the web, AI agents built on Telegram, and simulators for learning. One idea ties them together — people shouldn't just read about something, they should **click it and see it work**.
 
 ---
 
-## Loyihalar
+## Projects
 
 <table>
 <tr><td width="60"><h3>🏛</h3></td><td>
 
-**[4D Portfolio](https://4d-portfolio.vercel.app)** — ichida yuriladigan 3D muzey-portfolio
+**[4D Portfolio](https://4d-portfolio.vercel.app)** — a 3D museum-portfolio you can walk around in
 <sub>`TypeScript` · `React Three Fiber` · `Rapier` · `Vercel`</sub>
 
 </td></tr>
 <tr><td colspan="2">
 <details>
-<summary>&nbsp;&nbsp;Batafsil</summary>
+<summary>&nbsp;&nbsp;Details</summary>
 <br/>
 
-Klaviatura bilan erkin yurasiz yoki tayyor marshrut boʻylab siljiysiz. Fizika haqiqiy: devordan oʻtib boʻlmaydi, zinadan koʻtarilasiz.
+Walk around freely with the keyboard or follow a guided tour. The physics is real: you can't walk through walls, and you climb the stairs.
 
-- Burchakdagi shisha panelda sakkizta xonaning **jonli 3D koʻrinishi** — har biri alohida kameradan sekin aylanib turadi, bosasiz va oʻsha yerda paydo boʻlasiz
-- Toʻrt til: oʻzbek (lotin/kirill), rus, ingliz — kirishdagi elektron trubunadan tanlanadi
-- Devordagi ekranlarda GitHub profilim jonli koʻrinadi
-- Fikr qoldirish formasi ham 3D — DOM emas, sahnaning ichida
+- A glass panel in the corner shows **live 3D previews** of all eight rooms, each slowly orbiting on its own camera — click one and you're there
+- Four languages: Uzbek (Latin and Cyrillic), Russian and English — picked at the digital kiosk by the entrance
+- Screens on the walls show my GitHub profile live
+- Even the feedback form is 3D — rendered inside the scene, not in the DOM
 
 </details>
 </td></tr>
 
 <tr><td width="60"><h3>🩺</h3></td><td>
 
-**[TibSim](https://github.com/AbduazizBobomalikovNode/tibsim)** — tibbiyot texnikasi fani uchun virtual laboratoriya
+**[TibSim](https://github.com/AbduazizBobomalikovNode/tibsim)** — a virtual lab for the Medical Equipment course
 <sub>`TypeScript` · `3D` · `PWA`</sub>
 
 </td></tr>
 <tr><td colspan="2">
 <details>
-<summary>&nbsp;&nbsp;Batafsil</summary>
+<summary>&nbsp;&nbsp;Details</summary>
 <br/>
 
-Tibbiyot texnikasini kitobdan oʻrganib boʻlmaydi — qurilmani ishlatib koʻrish kerak. TibSim shuning uchun: **oʻn modul**, har biri alohida qurilma yoki jarayon.
+You can't learn medical equipment from a textbook — you have to operate it. That's why TibSim exists: **ten modules**, each covering a separate device or procedure.
 
-Internetsiz ham ochiladi (PWA), oʻzbek va rus tillarida. Talaba tugmani bosadi, natijani darhol koʻradi.
+Works offline (PWA), in Uzbek and Russian. Students press a button and see the result instantly.
 
 </details>
 </td></tr>
 
 <tr><td width="60"><h3>🤖</h3></td><td>
 
-**[tg-ai-analyzer](https://github.com/AbduazizBobomalikovNode/tg-ai-analyzer)** — Telegram chatlari uchun AI agent
+**[tg-ai-analyzer](https://github.com/AbduazizBobomalikovNode/tg-ai-analyzer)** — an AI agent for your Telegram chats
 <sub>`Python` · `MTProto` · `Gemini / DeepSeek`</sub>
 
 </td></tr>
 <tr><td colspan="2">
 <details>
-<summary>&nbsp;&nbsp;Batafsil</summary>
+<summary>&nbsp;&nbsp;Details</summary>
 <br/>
 
-Telegram arxivingizda minglab xabar bor va ularning ichidan kerakligini topib boʻlmaydi. Agent MTProto orqali arxivga kiradi, xabarlarni tahlil qiladi, qidiradi va xulosa chiqaradi.
+Your Telegram archive holds thousands of messages, and finding the one you need is nearly impossible. The agent connects to the archive via MTProto, then analyzes, searches and summarizes your messages.
 
-Bot API bilan boshqariladi, model sifatida Gemini yoki DeepSeek ishlaydi.
+It's controlled through the Bot API and runs on Gemini or DeepSeek.
 
 </details>
 </td></tr>
 
 <tr><td width="60"><h3>⚡</h3></td><td>
 
-**[hacking-animation](https://github.com/AbduazizBobomalikovNode/hacking-animation)** — kiberpank uslubidagi desktop animatsiya
+**[hacking-animation](https://github.com/AbduazizBobomalikovNode/hacking-animation)** — a cyberpunk-style desktop animation
 <sub>`Electron` · `JavaScript`</sub>
 
 </td></tr>
 <tr><td width="60"><h3>📄</h3></td><td>
 
-**[ml_convertor_free](https://github.com/AbduazizBobomalikovNode/ml_convertor_free)** — hujjat konvertori
-<sub>`Python` — Word, Excel, PowerPoint → PDF, HTML va boshqalar</sub>
+**[ml_convertor_free](https://github.com/AbduazizBobomalikovNode/ml_convertor_free)** — an offline document converter
+<sub>`Python` — Word, Excel, PowerPoint → PDF, HTML and more</sub>
 
 </td></tr>
 <tr><td width="60"><h3>💱</h3></td><td>
 
-**[Valyuta kursi](https://github.com/AbduazizBobomalikovNode/Valyuta-kursi)** — banklar kursi, kredit va omonat kalkulyatorlari
-<sub>`JavaScript`</sub>
+**[Valyuta-kursi](https://github.com/AbduazizBobomalikovNode/Valyuta-kursi)** — Uzbek bank exchange rates, plus loan and deposit calculators
+<sub>`JavaScript` · `Telegram bot`</sub>
 
 </td></tr>
 </table>
 
 <details>
-<summary><b>Yana bir nechta ish</b></summary>
+<summary><b>More projects</b></summary>
 <br/>
 
-| Loyiha | Tavsif | Til |
+| Project | Description | Language |
 |---|---|---|
-| [changelog-chat](https://github.com/AbduazizBobomalikovNode/changelog-chat) | macOS menu bar ilovasi: git tag'lar orasidagi oʻzgarishlarni Claude yordamida oʻzbekcha changelog'ga aylantiradi | Swift |
-| [Pay-bot](https://github.com/AbduazizBobomalikovNode/Pay-bot) | Toʻlov boti | JavaScript |
-| [for-lELITS](https://for-l-elits.vercel.app) | IELTS'ga tayyorgarlik veb-ilovasi: 3600 ta soʻzli lugʻat va tinglash mashqlari ([jonli sayt](https://for-l-elits.vercel.app)) | TypeScript |
-| [Sam-Tour-Services](https://github.com/AbduazizBobomalikovNode/Sam-Tour-Services) | Turistik xizmatlar boti: buyurtmalar, Chart.js grafiklari, Excel hisobot va admin veb-panel | JavaScript |
-| [LangTestBot](https://github.com/AbduazizBobomalikovNode/LangTestBot) | Ingliz tili darajasini aniqlaydigan Telegram bot: natijalarni saqlaydi va admin kanaliga xabar beradi | JavaScript |
-| [smart-call-servise](https://github.com/AbduazizBobomalikovNode/smart-call-servise) | IoT chaqiruv tugmalari tizimi: MQTT signallari xodimlarga vazifa boʻladi, DOCX hisobotlar bilan (diplom ishi) | CSS |
+| [changelog-chat](https://github.com/AbduazizBobomalikovNode/changelog-chat) | macOS menu bar app that turns the changes between git tags into Uzbek changelogs using Claude | Swift |
+| [Pay-bot](https://github.com/AbduazizBobomalikovNode/Pay-bot) | Telegram bot accepting Payme and Click payments with automatic confirmation | JavaScript |
+| [for-lELITS](https://github.com/AbduazizBobomalikovNode/for-lELITS) | IELTS prep web app with a 3,600-word vocabulary and listening practice ([live site](https://for-l-elits.vercel.app)) | TypeScript |
+| [Sam-Tour-Services](https://github.com/AbduazizBobomalikovNode/Sam-Tour-Services) | Telegram bot for tour services: orders, Chart.js charts, Excel reports and an admin web panel | JavaScript |
+| [LangTestBot](https://github.com/AbduazizBobomalikovNode/LangTestBot) | Telegram bot that tests your English level, stores results and notifies an admin channel | JavaScript |
+| [smart-call-servise](https://github.com/AbduazizBobomalikovNode/smart-call-servise) | IoT call-button system: MQTT signals become tasks for staff, with DOCX reports (diploma project) | JavaScript |
 
 </details>
 
 ---
 
-## Nimalar bilan ishlayman
+## Tech stack
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -142,7 +142,7 @@ Bot API bilan boshqariladi, model sifatida Gemini yoki DeepSeek ishlaydi.
 
 ---
 
-## Statistika
+## Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbduazizBobomalikovNode&theme=github_dark" height="180"/>
@@ -152,7 +152,7 @@ Bot API bilan boshqariladi, model sifatida Gemini yoki DeepSeek ishlaydi.
 ---
 
 <p align="center">
-  <b>Loyiha taklifingiz bormi?</b><br/>
-  <a href="https://t.me/Bobomalikov_Abduaziz">Telegram</a> orqali yozing yoki
-  <a href="https://4d-portfolio.vercel.app">muzeyga kiring</a> — u yerda ham forma bor.
+  <b>Have a project in mind?</b><br/>
+  Message me on <a href="https://t.me/Bobomalikov_Abduaziz">Telegram</a> or
+  <a href="https://4d-portfolio.vercel.app">visit the museum</a> — there's a contact form there too.
 </p>
