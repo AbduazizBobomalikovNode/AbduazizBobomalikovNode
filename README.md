@@ -103,7 +103,6 @@ Bot API bilan boshqariladi, model sifatida Gemini yoki DeepSeek ishlaydi.
 <details>
 <summary><b>Yana bir nechta ish</b></summary>
 <br/>
-<br/>
 
 | Loyiha | Tavsif | Til |
 |---|---|---|
