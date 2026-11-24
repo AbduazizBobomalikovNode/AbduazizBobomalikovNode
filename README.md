@@ -103,17 +103,16 @@ Bot API bilan boshqariladi, model sifatida Gemini yoki DeepSeek ishlaydi.
 <details>
 <summary><b>Yana bir nechta ish</b></summary>
 <br/>
-<sub>Tavsifi <code>—</code> boʻlganlariga oʻzingiz bir qator yozib qoʻysangiz, README oʻzi toʻlib boradi.</sub>
 <br/>
 
 | Loyiha | Tavsif | Til |
 |---|---|---|
-| [changelog-chat](https://github.com/AbduazizBobomalikovNode/changelog-chat) | — | Swift |
+| [changelog-chat](https://github.com/AbduazizBobomalikovNode/changelog-chat) | macOS menu bar ilovasi: git tag'lar orasidagi oʻzgarishlarni Claude yordamida oʻzbekcha changelog'ga aylantiradi | Swift |
 | [Pay-bot](https://github.com/AbduazizBobomalikovNode/Pay-bot) | Toʻlov boti | JavaScript |
-| [for-lELITS](https://for-l-elits.vercel.app) | — ([jonli sayt](https://for-l-elits.vercel.app)) | TypeScript |
-| [Sam-Tour-Services](https://github.com/AbduazizBobomalikovNode/Sam-Tour-Services) | — | JavaScript |
-| [LangTestBot](https://github.com/AbduazizBobomalikovNode/LangTestBot) | — | JavaScript |
-| [smart-call-servise](https://github.com/AbduazizBobomalikovNode/smart-call-servise) | — | CSS |
+| [for-lELITS](https://for-l-elits.vercel.app) | IELTS'ga tayyorgarlik veb-ilovasi: 3600 ta soʻzli lugʻat va tinglash mashqlari ([jonli sayt](https://for-l-elits.vercel.app)) | TypeScript |
+| [Sam-Tour-Services](https://github.com/AbduazizBobomalikovNode/Sam-Tour-Services) | Turistik xizmatlar boti: buyurtmalar, Chart.js grafiklari, Excel hisobot va admin veb-panel | JavaScript |
+| [LangTestBot](https://github.com/AbduazizBobomalikovNode/LangTestBot) | Ingliz tili darajasini aniqlaydigan Telegram bot: natijalarni saqlaydi va admin kanaliga xabar beradi | JavaScript |
+| [smart-call-servise](https://github.com/AbduazizBobomalikovNode/smart-call-servise) | IoT chaqiruv tugmalari tizimi: MQTT signallari xodimlarga vazifa boʻladi, DOCX hisobotlar bilan (diplom ishi) | CSS |
 
 </details>
 
