@@ -1,8 +1,5 @@
-<h1 align="center">Abduaziz Bobomalikov</h1>
-
 <p align="center">
-  <b>I build things you can explore right in the browser</b><br/>
-  <sub>Oltiariq, Fergana, Uzbekistan · Founder of Abdusoft · On GitHub since 2021</sub>
+  <img src="assets/banner.svg" alt="Abduaziz Bobomalikov — I build things you can explore right in the browser" width="100%">
 </p>
 
 <p align="center">
@@ -12,11 +9,27 @@
   <a href="mailto:azizbek12234@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<p align="center">
+  <b>Open to work</b> — full-stack and mobile roles in Tashkent or Fergana
+</p>
+
 ---
 
 My portfolio isn't an ordinary website — it's a **3D museum you can walk through**. Two floors, eight rooms, and every project I've built is on display as an exhibit.
 
 I work in three areas: 3D on the web, AI agents built on Telegram, and simulators for learning. One idea ties them together — people shouldn't just read about something, they should **click it and see it work**.
+
+---
+
+## What I do
+
+<table>
+<tr>
+<td width="33%" valign="top"><b>3D on the web</b><br/><sub>Spaces you can walk through right in the browser, with real physics — like the <a href="https://4d-portfolio.vercel.app">museum portfolio</a>.</sub></td>
+<td width="33%" valign="top"><b>AI agents on Telegram</b><br/><sub>Agents that search, analyze and summarize your chats, running on Gemini or DeepSeek.</sub></td>
+<td width="33%" valign="top"><b>Simulators for learning</b><br/><sub>Virtual labs you click through instead of reading about — like <a href="https://github.com/AbduazizBobomalikovNode/tibsim">TibSim</a>.</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -125,12 +138,35 @@ A request firewall keeps the recording from changing data on the live site, and 
 | Project | Description | Language |
 |---|---|---|
 | [changelog-chat](https://github.com/AbduazizBobomalikovNode/changelog-chat) | macOS menu bar app that turns the changes between git tags into Uzbek changelogs using Claude | Swift |
-| [Pay-bot](https://github.com/AbduazizBobomalikovNode/Pay-bot) | Telegram bot accepting Payme and Click payments with automatic confirmation | JavaScript |
+| [Pay-bot](https://github.com/AbduazizBobomalikovNode/Pay-bot) | Telegram bot accepting Payme payments through Telegram invoices, with automatic confirmation | JavaScript |
 | [Sam-Tour-Services](https://github.com/AbduazizBobomalikovNode/Sam-Tour-Services) | Telegram bot for tour services: orders, Chart.js charts, Excel reports and an admin web panel | JavaScript |
-| [LangTestBot](https://github.com/AbduazizBobomalikovNode/LangTestBot) | Telegram bot that tests your English level, stores results and notifies an admin channel | JavaScript |
+| [LangTestBot](https://github.com/AbduazizBobomalikovNode/LangTestBot) | Telegram bot that tests your English level, registers students and notifies an admin channel | JavaScript |
 | [smart-call-servise](https://github.com/AbduazizBobomalikovNode/smart-call-servise) | IoT call-button system: MQTT signals become tasks for staff, with DOCX reports (diploma project) | JavaScript |
+| [BearPartner_bot_js](https://github.com/AbduazizBobomalikovNode/BearPartner_bot_js) | Three-language (UZ/RU/EN) Telegram bot for a driver partner company: services, applications and document intake | JavaScript |
 
 </details>
+
+---
+
+## Experience
+
+**SUMMERTECH LLC** — Developer · now<br/>
+Built the company's Zukko AI mobile app for iOS and Android.
+
+**Samarkand Regional Teacher Retraining Center** — Programmer · Oct 2024 – Oct 2025<br/>
+Built the center's news website and its student registration and document system.
+
+**Startups and competitions** · 2024<br/>
+Robotics and IoT apps, servers, MQTT brokers on Node.js, devices and optimizations.
+
+**Samarkand State University** — Bachelor's in Software Engineering
+
+## Achievements
+
+- **1st place** — university startup projects competition, Samarkand (2023)
+- **2nd place, university stage** — "Innovator Student of the Year", Student of the Year contest (2023)
+- Pitched to investors at the Samarkand regional governor's startup event (2023)
+- Competed with a team at several RoboFests in Tashkent
 
 ---
 
@@ -144,10 +180,13 @@ A request firewall keeps the recording from changing data on the live site, and 
 </p>
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 </p>
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
