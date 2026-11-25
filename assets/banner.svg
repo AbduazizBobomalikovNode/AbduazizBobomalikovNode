@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="ttl" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+<title id="ttl">Abduaziz Bobomalikov — I build things you can explore right in the browser. 3D web, Telegram AI agents, learning simulators.</title>
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#151c27" stroke-width="1"/><animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 40" dur="16s" repeatCount="indefinite"/></pattern>
+<radialGradient id="glow" cx="78%" cy="30%" r="55%"><stop offset="0" stop-color="#F2B441" stop-opacity=".13"/><stop offset="1" stop-color="#F2B441" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#0b0e14"/><stop offset=".55" stop-color="#0b0e14" stop-opacity="0"/></linearGradient>
+<linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="-260" y1="0" x2="-60" y2="0">
+<stop offset="0" stop-color="#f0f3f6"/><stop offset=".5" stop-color="#F2B441"/><stop offset="1" stop-color="#f0f3f6"/>
+<animate attributeName="x1" dur="7s" repeatCount="indefinite" values="-260;700;700" keyTimes="0;.45;1"/>
+<animate attributeName="x2" dur="7s" repeatCount="indefinite" values="-60;900;900" keyTimes="0;.45;1"/>
+</linearGradient>
+<linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="r"><rect width="1200" height="320" rx="18"/></clipPath>
+<clipPath id="type"><rect class="fb typing" x="62" y="168" width="464" height="30"/></clipPath>
+<clipPath id="plot"><rect x="36" y="30" width="66" height="58"/></clipPath>
+</defs>
+<style>
+.eye{fill:#F2B441;font-size:14px;font-weight:700;letter-spacing:3px}
+.name{font-size:46px;font-weight:700;letter-spacing:-.5px}
+.tag{fill:#c9d1d9;font-size:21px}
+.meta{fill:#8b949e;font-size:15px;letter-spacing:.3px}
+.tile{fill:#0f141c;stroke:#232b3a;stroke-width:1.2}
+.lab{fill:#8b949e;font-size:12px;font-weight:700;letter-spacing:1.5px;text-anchor:middle}
+.ln{fill:none;stroke:#e6edf3;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.g{stroke:#F2B441}
+.fb{transform-box:fill-box}
+.typing{transform-origin:left;animation:typing 12s infinite}
+.caret{animation:caret 12s infinite}
+.blink{animation:blink 1s steps(1) infinite}
+.rule{transform-origin:left;animation:rule 6s ease-in-out infinite}
+.pulse{animation:pulse 8s ease-in-out infinite}
+.beam{animation:beam 9s ease-in-out infinite}
+.t1{animation:tile 9s infinite}.t2{animation:tile 9s 3s infinite}.t3{animation:tile 9s 6s infinite}
+.d1{animation:hop 1.6s ease-in-out infinite}.d2{animation:hop 1.6s .2s ease-in-out infinite}.d3{animation:hop 1.6s .4s ease-in-out infinite}
+.flow{animation:flow 2.6s linear infinite}
+@keyframes typing{0%,4%{transform:scaleX(0)}30%,94%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+@keyframes caret{0%,4%{transform:translateX(0)}30%,94%{transform:translateX(464px)}100%{transform:translateX(0)}}
+@keyframes blink{0%{opacity:1}50%{opacity:0}}
+@keyframes rule{0%,100%{transform:scaleX(1)}50%{transform:scaleX(2.2)}}
+@keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+@keyframes beam{0%,55%{transform:translateX(-400px) skewX(-18deg)}100%{transform:translateX(1500px) skewX(-18deg)}}
+@keyframes tile{0%,30%,100%{stroke:#232b3a}8%,22%{stroke:#F2B441}}
+@keyframes hop{0%,60%,100%{transform:translateY(0);opacity:.45}30%{transform:translateY(-6px);opacity:1}}
+@keyframes flow{to{transform:translateX(-33px)}}
+</style>
+
+<g clip-path="url(#r)">
+<rect width="1200" height="320" fill="#0b0e14"/>
+<rect width="1200" height="320" fill="url(#grid)"/>
+<rect width="1200" height="320" fill="url(#fade)"/>
+<rect class="pulse" width="1200" height="320" fill="url(#glow)"/>
+<rect class="beam" y="-40" width="260" height="400" fill="url(#beam)"/>
+
+<!-- identity -->
+<text class="eye" x="64" y="92">FULL-STACK DEVELOPER</text>
+<text class="name" x="62" y="150" fill="url(#shine)">Abduaziz Bobomalikov</text>
+<text class="tag" x="64" y="188" textLength="456" clip-path="url(#type)">I build things you can explore right in the browser</text>
+<g class="caret"><rect class="blink" x="61" y="171" width="2" height="22" fill="#F2B441"/></g>
+<rect class="fb rule" x="64" y="212" width="48" height="3" rx="1.5" fill="#F2B441"/>
+<text class="meta" x="64" y="250">Founder of Abdusoft  ·  Fergana, Uzbekistan  ·  On GitHub since 2021</text>
+
+<!-- 3D web: rotating wireframe cube -->
+<g transform="translate(716 85)">
+<rect class="tile t1" width="136" height="150" rx="12"/>
+<path class="ln" opacity=".9" d="M48 46L88 46L88 86L48 86ZM68 30L108 30L108 70L68 70ZM48 46L68 30M88 46L108 30M88 86L108 70M48 86L68 70">
+<animate attributeName="d" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="M48 46L88 46L88 86L48 86ZM68 30L108 30L108 70L68 70ZM48 46L68 30M88 46L108 30M88 86L108 70M48 86L68 70;M48 46L88 46L88 86L48 86ZM28 30L68 30L68 70L28 70ZM48 46L28 30M88 46L68 30M88 86L68 70M48 86L28 70;M48 46L88 46L88 86L48 86ZM68 30L108 30L108 70L68 70ZM48 46L68 30M88 46L108 30M88 86L108 70M48 86L68 70"/>
+</path>
+<path class="ln g" d="M48 46L88 46L88 86L48 86Z"/>
+<text class="lab" x="68" y="126">3D WEB</text>
+</g>
+
+<!-- AI agents: typing bubble -->
+<g transform="translate(868 85)">
+<rect class="tile t2" width="136" height="150" rx="12"/>
+<path class="ln" d="M46 34h44a12 12 0 0 1 12 12v20a12 12 0 0 1-12 12H62l-14 12v-12h-2a12 12 0 0 1-12-12V46a12 12 0 0 1 12-12z" opacity=".9"/>
+<circle class="d1" cx="54" cy="57" r="3.5" fill="#F2B441"/>
+<circle class="d2" cx="68" cy="57" r="3.5" fill="#F2B441"/>
+<circle class="d3" cx="82" cy="57" r="3.5" fill="#F2B441"/>
+<text class="lab" x="68" y="126">AI AGENTS</text>
+</g>
+
+<!-- simulators: running wave -->
+<g transform="translate(1020 85)">
+<rect class="tile t3" width="136" height="150" rx="12"/>
+<path class="ln" d="M34 28V90H106" opacity=".5"/>
+<g clip-path="url(#plot)"><path class="ln g flow" d="M3 60q8.25-44 16.5 0t16.5 0t16.5 0t16.5 0t16.5 0t16.5 0t16.5 0t16.5 0"/></g>
+<circle cx="69" cy="60" r="4" fill="#f0f3f6"><animate attributeName="cy" dur="2.6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.25;.5;.75;1" keySplines="0 0 .58 1;.42 0 1 1;0 0 .58 1;.42 0 1 1" values="60;38;60;82;60"/></circle>
+<text class="lab" x="68" y="126">SIMULATORS</text>
+</g>
+</g>
+<rect x=".6" y=".6" width="1198.8" height="318.8" rx="18" fill="none" stroke="#232b3a" stroke-width="1.2"/>
+</svg>
