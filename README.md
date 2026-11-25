@@ -126,7 +126,6 @@ A request firewall keeps the recording from changing data on the live site, and 
 |---|---|---|
 | [changelog-chat](https://github.com/AbduazizBobomalikovNode/changelog-chat) | macOS menu bar app that turns the changes between git tags into Uzbek changelogs using Claude | Swift |
 | [Pay-bot](https://github.com/AbduazizBobomalikovNode/Pay-bot) | Telegram bot accepting Payme and Click payments with automatic confirmation | JavaScript |
-| [for-lELITS](https://github.com/AbduazizBobomalikovNode/for-lELITS) | IELTS prep web app with a 3,600-word vocabulary and listening practice ([live site](https://for-l-elits.vercel.app)) | TypeScript |
 | [Sam-Tour-Services](https://github.com/AbduazizBobomalikovNode/Sam-Tour-Services) | Telegram bot for tour services: orders, Chart.js charts, Excel reports and an admin web panel | JavaScript |
 | [LangTestBot](https://github.com/AbduazizBobomalikovNode/LangTestBot) | Telegram bot that tests your English level, stores results and notifies an admin channel | JavaScript |
 | [smart-call-servise](https://github.com/AbduazizBobomalikovNode/smart-call-servise) | IoT call-button system: MQTT signals become tasks for staff, with DOCX reports (diploma project) | JavaScript |
