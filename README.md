@@ -159,7 +159,7 @@ Built the center's news website and its student registration and document system
 **Startups and competitions** · 2024<br/>
 Robotics and IoT apps, servers, MQTT brokers on Node.js, devices and optimizations.
 
-**Samarkand State University** — Bachelor's in Software Engineering
+**Samarkand State University** — Bachelor's in Software Engineering · 2024
 
 ## Achievements
 
