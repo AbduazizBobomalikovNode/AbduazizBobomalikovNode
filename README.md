@@ -173,6 +173,7 @@ Robotics and IoT apps, servers, MQTT brokers on Node.js, devices and optimizatio
 ## Latest from the blog
 
 <!-- BLOG-POSTS:START -->
+- [Sun’iy intellekt orqali blog yuritish](https://blog.abdusoft.uz/suniy-intellekt-orqali-blog-yuritish) — 28.09.2026
 <!-- BLOG-POSTS:END -->
 
 ---
