@@ -170,6 +170,13 @@ Robotics and IoT apps, servers, MQTT brokers on Node.js, devices and optimizatio
 
 ---
 
+## Latest from the blog
+
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
+
+---
+
 ## Tech stack
 
 <p>
